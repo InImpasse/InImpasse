@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m A developer of [Golang](https://github.com/golang/go) & [Python](https://www.python.org/).
+- 🌱 I’m a developer of [Golang](https://github.com/golang/go) & [Python](https://www.python.org/).
 - 📫 How to reach me: 
   - Telegram:[@InImpasse](https://t.me/InImpasse)
   - E-mail:[tonyjiang@impasse.top](mailto:tonyjiang@impasse.top)
